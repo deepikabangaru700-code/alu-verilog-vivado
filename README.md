@@ -17,3 +17,4 @@ default:out=4'b0000;
 endcase 
 end
 endmodule
+<img width="1366" height="768" alt="Screenshot 2026-01-14 094158" src="https://github.com/user-attachments/assets/1cfc8d90-93ed-4f4b-9594-2382ea2fe149" />
